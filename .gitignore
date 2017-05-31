@@ -53,3 +53,5 @@ $RECYCLE.BIN/
 .idea/
 Java7ConcurrencyCookbook.iml
 out/
+target
+src/test
